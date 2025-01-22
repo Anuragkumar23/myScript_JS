@@ -1,6 +1,6 @@
 ## 📚 **Day-wise Practice Codes Repository**
 
-Welcome to the **Nov-Batch-Daily-Scripts** repository! 🎉 Here, you will find all the practice codes we work on daily during our learning journey. This repository is a one-stop solution to revisit and practice the concepts we've covered.
+Welcome to the **My_Scripts** repository! 🎉 Here, you will find all the practice codes we work on daily during our learning journey. This repository is a one-stop solution to revisit and practice the concepts we've covered.
 
 ---
 
@@ -22,7 +22,7 @@ Feel free to contribute by:
 
 ### **🚀 Latest Update:**
 
-**Topic:26th December** Objects 
+**Objects**
 We're diving deep into JavaScript objects! 🛠️  
 This section includes code snippets, examples, and practice problems that demonstrate the concepts of objects in JavaScript, such as:  
 - Object creation  
