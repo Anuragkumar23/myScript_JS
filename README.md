@@ -22,7 +22,7 @@ Feel free to contribute by:
 
 ### **🚀 Latest Update:**
 
-**TObjects**
+**Objects**
 We're diving deep into JavaScript objects! 🛠️  
 This section includes code snippets, examples, and practice problems that demonstrate the concepts of objects in JavaScript, such as:  
 - Object creation  
